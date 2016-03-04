@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<formats>
+	<!-- android -->
+	<format width="36"  height="36"   name="android\icon-36-ldpi.png"/>
+	<format width="48"  height="48"   name="android\icon-48-mdpi.png"/>
+	<format width="72"  height="72"   name="android\icon-72-hdpi.png"/>
+	<format width="96"  height="96"   name="android\icon-96-xhdpi.png"/>
+	<!-- ios -->
+	<format width="40"  height="40"   name="ios\icon-40.png"/>
+	<format width="80"  height="80"   name="ios\icon-40-2x.png"/>
+  <format width="50"  height="50"   name="ios\icon-50.png"/>
+	<format width="100" height="100"  name="ios\icon-50-2x.png"/>
+  <format width="57"  height="57"   name="ios\icon-57.png"/>
+  <format width="114" height="114"  name="ios\icon-57-2x.png"/>
+  <format width="60"  height="60"   name="ios\icon-60.png"/>
+  <format width="120" height="120"  name="ios\icon-60-2x.png"/>
+  <format width="180" height="180"  name="ios\icon-60-3x.png"/>
+  <format width="72"  height="72"   name="ios\icon-72.png"/>
+  <format width="144" height="144"  name="ios\icon-72-2x.png"/>
+  <format width="76"  height="76"   name="ios\icon-76.png"/>
+  <format width="152" height="152"  name="ios\icon-76-2x.png"/>
+  <format width="29"  height="29"   name="ios\icon-small.png"/>
+  <format width="58"  height="58"   name="ios\icon-small-2x.png"/>
+  <!-- windows phone 8 -->
+  <format width="99" height="99"  name="wp8\ApplicationIcon.png"/>
+  <format width="159"  height="159"  name="wp8\Background.png"/>
+  <!-- windows -->
+  <format width="30" height="30" name="windows\Square30x30Logo.scale-100.png"/>
+  <format width="44" height="44" name="windows\Square44x44Logo.scale-100.png"/>
+  <format width="106" height="106" name="windows\Square44x44Logo.scale-240.png"/>
+  <format width="70" height="70" name="windows\Square70x70Logo.scale-100.png"/>
+  <format width="71" height="71" name="windows\Square71x71Logo.scale-100.png"/>
+  <format width="170" height="170" name="windows\Square71x71Logo.scale-240.png"/>
+  <format width="150" height="150" name="windows\Square150x150Logo.scale-100.png"/>
+  <format width="360" height="360" name="windows\Square150x150Logo.scale-240.png"/>
+  <format width="310" height="310" name="windows\Square310x310Logo.scale-100.png"/>
+  <format width="50" height="50" name="windows\StoreLogo.scale-100.png"/>
+  <format width="120" height="120" name="windows\StoreLogo.scale-240.png"/>
+  <format width="310" height="150" name="windows\Wide310x150Logo.scale-100.png"/>
+  <format width="744" height="360" name="windows\Wide310x150Logo.sclae-240.png"/>
+
+</formats>
