@@ -110,4 +110,6 @@
   <preference name="ShowTitle" value="True" />
   <preference name="InAppBrowserStorageEnabled" value="True" />
   <preference name="SuppressesIncrementalRendering" value="True" />
+  <preference name="fullscreen" value="false" />
+  <plugin name="cordova-plugin-statusbar" version="2.1.1" />
 </widget>
