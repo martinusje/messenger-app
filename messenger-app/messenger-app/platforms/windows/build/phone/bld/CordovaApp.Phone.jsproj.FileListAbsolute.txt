@@ -1,0 +1,17 @@
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\phone\debug\arm\resources.pri
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\phone\debug\arm\AppxManifest.xml
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\phone\debug\arm\CordovaApp.Phone.build.appxrecipe
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\phone\bld\priconfig.xml
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\phone\bld\priconfig.xml.intermediate
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\phone\bld\layout.resfiles
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\phone\bld\layout.resfiles.intermediate
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\phone\bld\resources.resfiles
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\phone\bld\resources.resfiles.intermediate
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\phone\bld\pri.resfiles
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\phone\bld\pri.resfiles.intermediate
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\phone\bld\qualifiers.txt
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\phone\bld\qualifiers.txt.intermediate
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\phone\bld\MultipleQualifiersPerDimensionFound.txt
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\phone\bld\ProjectArchitectures.txt
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\phone\bld\package.map.txt
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\phone\bld\_pkginfo.txt

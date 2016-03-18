@@ -1,0 +1,1 @@
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\CordovaApp.Phone.jsproj;arm
