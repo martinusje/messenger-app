@@ -1,0 +1,11 @@
+D:\Martijn\Downloads\cordova-imageResizer-vsformats-master\src\BatchImageResizer\bin\Release\BatchImageResizer.exe.config
+D:\Martijn\Downloads\cordova-imageResizer-vsformats-master\src\BatchImageResizer\bin\Release\formats.xml
+D:\Martijn\Downloads\cordova-imageResizer-vsformats-master\src\BatchImageResizer\bin\Release\BatchImageResizer.exe
+D:\Martijn\Downloads\cordova-imageResizer-vsformats-master\src\BatchImageResizer\bin\Release\BatchImageResizer.pdb
+D:\Martijn\Downloads\cordova-imageResizer-vsformats-master\src\BatchImageResizer\obj\Release\BatchImageResizer.csprojResolveAssemblyReference.cache
+D:\Martijn\Downloads\cordova-imageResizer-vsformats-master\src\BatchImageResizer\obj\Release\BatchImageResizer.exe
+D:\Martijn\Downloads\cordova-imageResizer-vsformats-master\src\BatchImageResizer\obj\Release\BatchImageResizer.pdb
+D:\Martijn\Downloads\cordova-imageResizer-vsformats-master\src\BatchImageResizer\bin\Release\BatchImageResizer.exe.manifest
+D:\Martijn\Downloads\cordova-imageResizer-vsformats-master\src\BatchImageResizer\bin\Release\BatchImageResizer.application
+D:\Martijn\Downloads\cordova-imageResizer-vsformats-master\src\BatchImageResizer\obj\Release\BatchImageResizer.exe.manifest
+D:\Martijn\Downloads\cordova-imageResizer-vsformats-master\src\BatchImageResizer\obj\Release\BatchImageResizer.application

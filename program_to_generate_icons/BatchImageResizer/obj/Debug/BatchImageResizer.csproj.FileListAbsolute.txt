@@ -1,0 +1,1 @@
+D:\Martijn\Downloads\cordova-imageResizer-vsformats-master\src\BatchImageResizer\bin\Debug\BatchImageResizer.exe.config
