@@ -1,4 +1,15 @@
 ﻿body {
 background: url("../img/test_background.png");
 background-size:cover;
+padding:0;
+    margin: 10px;
+}
+.messagefield{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.textfield{
+    width: 85%;
+    height: 1em;
 }

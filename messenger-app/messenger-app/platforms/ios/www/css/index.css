@@ -2,3 +2,12 @@
 background: url("../img/test_background.png");
 background-size:cover;
 }
+.messagefield{
+    position: absolute;
+    bottom: 0;
+
+}
+.textfield{
+    width: 70%;
+
+}

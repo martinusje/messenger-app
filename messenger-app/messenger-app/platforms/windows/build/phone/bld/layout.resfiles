@@ -19,9 +19,11 @@ www\cordova_plugins.js
 www\cordova-js-src\exec.js
 www\cordova-js-src\platform.js
 www\css\index.css
+www\img\test_background.png
 www\index.html
 www\plugins\cordova-plugin-statusbar\src\windows\StatusBarProxy.js
 www\plugins\cordova-plugin-statusbar\www\statusbar.js
+www\plugins\ionic-plugin-keyboard\src\windows\KeyboardProxy.js
 www\scripts\index.js
 www\scripts\platformOverrides.js
 www\scripts\winstore-jscompat.js
