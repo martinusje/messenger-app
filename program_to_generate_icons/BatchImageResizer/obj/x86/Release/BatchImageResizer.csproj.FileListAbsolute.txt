@@ -8,3 +8,6 @@ D:\Martijn\Downloads\cordova-imageResizer-vsformats-master\src\BatchImageResizer
 D:\Martijn\Downloads\cordova-imageResizer-vsformats-master\src\BatchImageResizer\obj\x86\Release\BatchImageResizer.application
 D:\Martijn\Downloads\cordova-imageResizer-vsformats-master\src\BatchImageResizer\obj\x86\Release\BatchImageResizer.exe
 D:\Martijn\Downloads\cordova-imageResizer-vsformats-master\src\BatchImageResizer\obj\x86\Release\BatchImageResizer.pdb
+C:\Users\luca\Documents\GitHub\messenger-app\program_to_generate_icons\BatchImageResizer\bin\x86\Release\BatchImageResizer.exe.config
+C:\Users\luca\Documents\GitHub\messenger-app\program_to_generate_icons\BatchImageResizer\obj\x86\Release\BatchImageResizer.exe
+C:\Users\luca\Documents\GitHub\messenger-app\program_to_generate_icons\BatchImageResizer\obj\x86\Release\BatchImageResizer.pdb

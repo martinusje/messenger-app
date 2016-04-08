@@ -12,6 +12,9 @@
         },
         "cordova-plugin-statusbar": {
             "PACKAGE_NAME": "MAPP"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "MAPP"
         }
     },
     "dependent_plugins": {}

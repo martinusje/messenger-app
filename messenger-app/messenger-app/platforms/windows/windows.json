@@ -12,6 +12,9 @@
         },
         "cordova-plugin-statusbar": {
             "PACKAGE_NAME": "MAPP"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "MAPP"
         }
     },
     "dependent_plugins": {},
@@ -29,10 +32,20 @@
             "id": "cordova-plugin-statusbar.StatusBarProxy",
             "pluginId": "cordova-plugin-statusbar",
             "runs": true
+        },
+        {
+            "file": "plugins/ionic-plugin-keyboard/src/windows/KeyboardProxy.js",
+            "id": "ionic-plugin-keyboard.KeyboardProxy",
+            "pluginId": "ionic-plugin-keyboard",
+            "clobbers": [
+                "cordova.plugins.Keyboard"
+            ],
+            "runs": true
         }
     ],
     "plugin_metadata": {
         "cordova-plugin-whitelist": "1.2.1",
-        "cordova-plugin-statusbar": "2.1.1"
+        "cordova-plugin-statusbar": "2.1.1",
+        "ionic-plugin-keyboard": "2.0.1"
     }
 }

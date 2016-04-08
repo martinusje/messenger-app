@@ -1,2 +1,4 @@
 ﻿body {
+background: url("../img/test_background.png");
+background-size:cover;
 }
