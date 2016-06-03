@@ -25,7 +25,7 @@ namespace BatchImageResizer
             }
             else
             {
-                Console.WriteLine(@"Path to source image ('C:\Users\Administrator\Documents\Images\MyIcon.png'):");
+                Console.WriteLine(@"Path to source image ('D:\Martijn\Downloads\MyIcon.png'):");
                 sourceFile = Console.ReadLine();
             }
 
@@ -36,7 +36,7 @@ namespace BatchImageResizer
             }
             else
             {
-                Console.WriteLine(@"Path to target directory ('C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyProject\MyProject\res\icons'):");
+                Console.WriteLine(@"Path to target directory ('D:\Martijn\Downloads\'):");
                 targetDirectory = Console.ReadLine();
             }
             

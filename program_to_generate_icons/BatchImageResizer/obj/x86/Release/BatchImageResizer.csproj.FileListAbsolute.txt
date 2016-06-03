@@ -11,3 +11,14 @@ D:\Martijn\Downloads\cordova-imageResizer-vsformats-master\src\BatchImageResizer
 C:\Users\luca\Documents\GitHub\messenger-app\program_to_generate_icons\BatchImageResizer\bin\x86\Release\BatchImageResizer.exe.config
 C:\Users\luca\Documents\GitHub\messenger-app\program_to_generate_icons\BatchImageResizer\obj\x86\Release\BatchImageResizer.exe
 C:\Users\luca\Documents\GitHub\messenger-app\program_to_generate_icons\BatchImageResizer\obj\x86\Release\BatchImageResizer.pdb
+D:\Martijn\Documents\GitHub\messenger-app\program_to_generate_icons\BatchImageResizer\bin\x86\Release\BatchImageResizer.exe.config
+D:\Martijn\Documents\GitHub\messenger-app\program_to_generate_icons\BatchImageResizer\obj\x86\Release\BatchImageResizer.exe
+D:\Martijn\Documents\GitHub\messenger-app\program_to_generate_icons\BatchImageResizer\obj\x86\Release\BatchImageResizer.pdb
+D:\Martijn\Documents\GitHub\messenger-app\program_to_generate_icons\BatchImageResizer\bin\x86\Release\formats.xml
+D:\Martijn\Documents\GitHub\messenger-app\program_to_generate_icons\BatchImageResizer\bin\x86\Release\BatchImageResizer.exe.manifest
+D:\Martijn\Documents\GitHub\messenger-app\program_to_generate_icons\BatchImageResizer\bin\x86\Release\BatchImageResizer.application
+D:\Martijn\Documents\GitHub\messenger-app\program_to_generate_icons\BatchImageResizer\bin\x86\Release\BatchImageResizer.exe
+D:\Martijn\Documents\GitHub\messenger-app\program_to_generate_icons\BatchImageResizer\bin\x86\Release\BatchImageResizer.pdb
+D:\Martijn\Documents\GitHub\messenger-app\program_to_generate_icons\BatchImageResizer\obj\x86\Release\BatchImageResizer.csprojResolveAssemblyReference.cache
+D:\Martijn\Documents\GitHub\messenger-app\program_to_generate_icons\BatchImageResizer\obj\x86\Release\BatchImageResizer.exe.manifest
+D:\Martijn\Documents\GitHub\messenger-app\program_to_generate_icons\BatchImageResizer\obj\x86\Release\BatchImageResizer.application

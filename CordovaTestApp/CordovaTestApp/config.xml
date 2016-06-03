@@ -17,7 +17,7 @@
   <allow-intent href="mailto:*" />
   <allow-intent href="geo:*" />
   <!-- Belangrijk! -->
-  <allow-navigation href="ws://83.87.9.108" />
+  <allow-navigation href="ws://77.162.231.112" />
   <platform name="android">
     <allow-intent href="market:*" />
   </platform>

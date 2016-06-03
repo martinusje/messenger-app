@@ -49,26 +49,26 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Y4sde9s+sQJ+15P0Ije10bNbdfz8/Efdsc3Frq4oP5A=</dsig:DigestValue>
+        <dsig:DigestValue>BeCSeEbtULBBrjkCovoBD9EntHxoCXb0cxWidkCAVvs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="BatchImageResizer.exe.config" size="182">
+  <file name="BatchImageResizer.exe.config" size="187">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>PbQiHFOih9uz3RPvvsStiPKcsu3PE8/gyCn2QGUyyf4=</dsig:DigestValue>
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="formats.xml" size="2539" writeableType="applicationData">
+  <file name="formats.xml" size="2580" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>qTBzmBf1Kj9RX9/PY46rOwgW0dSxpI2FT5f5UZ0CxoY=</dsig:DigestValue>
+      <dsig:DigestValue>SXiU0fe9dWCVie3AtQo6ZDk4ATkx9xnX3z/TZr5WFfo=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
