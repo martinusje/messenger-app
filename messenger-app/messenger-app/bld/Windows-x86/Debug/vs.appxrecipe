@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LENOVO-PC</Machine>
+    <WindowsUser>luca</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>io.cordova.myapp2a1232</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>4C31C8FB4279B86465644326BDDF7BB0B0D1267D0304628D64D643C1F8C666A5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>io.cordova.myapp2a1232_1.0.0.0_x86__h35559jr9hy9m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>io.cordova.myapp2a1232_h35559jr9hy9m!io.cordova.myapp2a1232</RegisteredUserModeAppID>
+    <RegisteredPackageID>io.cordova.myapp2a1232</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova Team</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\windows\debug\x86\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-03T13:05:46.523</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-03T13:05:42.562</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-03T13:05:42.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-03T13:05:42.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-03T13:05:42.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <Modified>2016-06-03T13:05:42.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-03T13:05:42.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <Modified>2016-06-03T13:05:42.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-03T13:05:42.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-03T13:05:42.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\img\test_background.png">
+      <PackagePath>www\img\test_background.png</PackagePath>
+      <Modified>2016-06-03T13:05:41.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\img\text_bar.png">
+      <PackagePath>www\img\text_bar.png</PackagePath>
+      <Modified>2016-06-03T13:05:41.466</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+      <Modified>2016-06-03T13:05:42.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+      <Modified>2016-06-03T13:05:42.606</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2016-06-03T13:05:41.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2016-06-03T13:05:42.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\plugins\cordova-plugin-statusbar\src\windows\StatusBarProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-statusbar\src\windows\StatusBarProxy.js</PackagePath>
+      <Modified>2016-06-03T13:05:42.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\plugins\cordova-plugin-statusbar\www\statusbar.js">
+      <PackagePath>www\plugins\cordova-plugin-statusbar\www\statusbar.js</PackagePath>
+      <Modified>2016-06-03T13:05:42.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\plugins\ionic-plugin-keyboard\src\windows\KeyboardProxy.js">
+      <PackagePath>www\plugins\ionic-plugin-keyboard\src\windows\KeyboardProxy.js</PackagePath>
+      <Modified>2016-06-03T13:05:42.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\scripts\bootstrap.min.js">
+      <PackagePath>www\scripts\bootstrap.min.js</PackagePath>
+      <Modified>2016-06-03T13:05:42.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\scripts\index.js">
+      <PackagePath>www\scripts\index.js</PackagePath>
+      <Modified>2016-06-03T13:05:41.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\scripts\jquery.js">
+      <PackagePath>www\scripts\jquery.js</PackagePath>
+      <Modified>2016-06-03T13:05:41.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\scripts\platformOverrides.js">
+      <PackagePath>www\scripts\platformOverrides.js</PackagePath>
+      <Modified>2016-06-03T13:05:41.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\scripts\winstore-jscompat.js">
+      <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
+      <Modified>2016-06-03T13:05:41.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+      <Modified>2016-06-03T13:05:41.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\css\bootstrap.min.css">
+      <PackagePath>www\css\bootstrap.min.css</PackagePath>
+      <Modified>2016-06-03T13:05:42.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+      <Modified>2016-06-03T13:05:41.462</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\img\polygonal-texture-background-vector.jpg">
+      <PackagePath>www\img\polygonal-texture-background-vector.jpg</PackagePath>
+      <Modified>2016-06-03T13:05:41.464</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2016-06-03T13:05:41.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2016-06-03T13:05:44.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\build\windows\debug\x86\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-06-03T13:05:45.587</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
