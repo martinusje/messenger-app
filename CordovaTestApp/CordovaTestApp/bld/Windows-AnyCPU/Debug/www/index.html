@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+
+    <!--
+        Customize the content security policy in the meta tag below as needed. Add 'unsafe-inline' to default-src to enable inline JavaScript.
+        For details, see http://go.microsoft.com/fwlink/?LinkID=617521
+    -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
+    <title>CordovaTestApp</title>
+
+    <!-- CordovaTestApp references -->
+    <link href="css/index.css" rel="stylesheet" />
+    <script>
+        
+    </script>
+</head>
+<body>
+    <p>Hello, your application is ready!</p>
+    <div id="clickDiv">Click me</div> 
+    <div id="clearStorage">Clear LocalStorage</div> 
+    <input type="text" id="message" value="message" />
+    <p id="sendButton">Input thingie</p>
+    <div id="outputDiv"></div>
+
+    <!-- Cordova reference, this is added to your app when it's built. -->
+    <script src="cordova.js"></script>
+    <script src="scripts/platformOverrides.js"></script>
+    <script type="text/javascript" src="scripts/socket.io.js"></script>
+    <script type="text/javascript" src="scripts/jquery.js"></script>
+
+    <script src="scripts/index.js"></script>
+</body>
+</html>

@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-MARTIJN</Machine>
+    <WindowsUser>marti</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>io.cordova.myapp15b372</PackageIdentityName>
+    <IntermediateOutputPath>D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>4A7B2AD77D580926C481A5370BA64C2AE53415055C3C057ECB3ED80640DFCC68</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>io.cordova.myapp15b372_1.0.0.0_x86__h35559jr9hy9m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>io.cordova.myapp15b372_h35559jr9hy9m!io.cordova.myapp15b372</RegisteredUserModeAppID>
+    <RegisteredPackageID>io.cordova.myapp15b372</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova Team</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\build\windows\debug\x86\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-03T11:25:31.698</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\plugins\cordova-sqlite-storage\src\windows\SQLite3-Win-RT\SQLite3\SQLite3.Windows\debug\SQLite3.Windows\SQLite3.winmd">
+      <PackagePath>SQLite3.winmd</PackagePath>
+      <Modified>2016-05-20T13:24:33.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\plugins\cordova-sqlite-storage\src\windows\SQLite3-Win-RT\SQLite3\SQLite3.Windows\debug\SQLite3.Windows\SQLite3.dll">
+      <PackagePath>SQLite3.dll</PackagePath>
+      <Modified>2016-06-02T14:22:58.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-03T11:25:23.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-03T11:25:23.282</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-03T11:25:23.330</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-03T11:25:23.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <Modified>2016-06-03T11:25:23.345</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-03T11:25:23.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <Modified>2016-06-03T11:25:23.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-03T11:25:23.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-03T11:25:23.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+      <Modified>2016-06-03T11:25:23.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+      <Modified>2016-06-03T11:25:23.519</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2016-06-03T11:25:21.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2016-06-03T11:25:23.524</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js</PackagePath>
+      <Modified>2016-06-03T11:25:23.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\plugins\cordova-plugin-dialogs\www\notification.js">
+      <PackagePath>www\plugins\cordova-plugin-dialogs\www\notification.js</PackagePath>
+      <Modified>2016-06-03T11:25:23.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\plugins\cordova-plugin-statusbar\src\windows\StatusBarProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-statusbar\src\windows\StatusBarProxy.js</PackagePath>
+      <Modified>2016-06-03T11:25:23.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\plugins\cordova-plugin-statusbar\www\statusbar.js">
+      <PackagePath>www\plugins\cordova-plugin-statusbar\www\statusbar.js</PackagePath>
+      <Modified>2016-06-03T11:25:23.561</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\plugins\cordova-sqlite-storage\src\windows\sqlite-proxy.js">
+      <PackagePath>www\plugins\cordova-sqlite-storage\src\windows\sqlite-proxy.js</PackagePath>
+      <Modified>2016-06-03T11:25:23.594</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\plugins\cordova-sqlite-storage\src\windows\SQLite3-Win-RT\SQLite3JS\js\SQLite3.js">
+      <PackagePath>www\plugins\cordova-sqlite-storage\src\windows\SQLite3-Win-RT\SQLite3JS\js\SQLite3.js</PackagePath>
+      <Modified>2016-06-03T11:25:23.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\plugins\cordova-sqlite-storage\www\SQLitePlugin.js">
+      <PackagePath>www\plugins\cordova-sqlite-storage\www\SQLitePlugin.js</PackagePath>
+      <Modified>2016-06-03T11:25:23.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\scripts\index.js">
+      <PackagePath>www\scripts\index.js</PackagePath>
+      <Modified>2016-06-03T11:25:21.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\scripts\jquery.js">
+      <PackagePath>www\scripts\jquery.js</PackagePath>
+      <Modified>2016-06-03T11:25:21.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\scripts\platformOverrides.js">
+      <PackagePath>www\scripts\platformOverrides.js</PackagePath>
+      <Modified>2016-06-03T11:25:21.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\scripts\socket.io.js">
+      <PackagePath>www\scripts\socket.io.js</PackagePath>
+      <Modified>2016-06-03T11:25:21.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\scripts\winstore-jscompat.js">
+      <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
+      <Modified>2016-06-03T11:25:21.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+      <Modified>2016-06-03T11:25:22.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+      <Modified>2016-06-03T11:25:21.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2016-06-03T11:25:21.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\www\login.html">
+      <PackagePath>www\login.html</PackagePath>
+      <Modified>2016-06-03T11:25:21.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2016-06-03T11:25:26.172</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Martijn\Documents\Visual Studio 2015\Projects\CordovaTestApp\CordovaTestApp\platforms\windows\build\windows\debug\x86\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-06-03T11:25:29.489</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

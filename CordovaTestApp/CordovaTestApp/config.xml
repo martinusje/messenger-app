@@ -16,6 +16,8 @@
   <allow-intent href="sms:*" />
   <allow-intent href="mailto:*" />
   <allow-intent href="geo:*" />
+  <!-- Belangrijk! -->
+  <allow-navigation href="ws://83.87.9.108" />
   <platform name="android">
     <allow-intent href="market:*" />
   </platform>
@@ -110,4 +112,5 @@
   <plugin name="cordova-plugin-statusbar" version="2.1.1" />
   <access />
   <plugin name="cordova-plugin-dialogs" version="1.2.0" />
+  <plugin name="cordova-sqlite-storage" version="1.4.1" src="https://github.com/litehelpers/Cordova-sqlite-storage" />
 </widget>
