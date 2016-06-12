@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget defaultlocale="en-US" id="io.cordova.myapp2a1232" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps">
-    <feature name="StatusBar">
-        <param name="android-package" value="org.apache.cordova.statusbar.StatusBar" />
-        <param name="onload" value="true" />
-    </feature>
+    <preference name="loglevel" value="DEBUG" />
     <feature name="Whitelist">
         <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
         <param name="onload" value="true" />
@@ -12,18 +9,13 @@
         <param name="android-package" value="io.ionic.keyboard.IonicKeyboard" />
         <param name="onload" value="true" />
     </feature>
-    <name>MAPP</name>
-    <description>The best messenger app you'll ever see, but never download, MAPP</description>
-    <author email="mappmessenger@gmail.com" href="google.com/search?q=MAPP">The MAPPERS</author>
-    <content src="index.html" />
-    <access origin="*" />
-    <vs:features />
-    <allow-intent href="http://*/*" />
-    <allow-intent href="https://*/*" />
-    <allow-intent href="tel:*" />
-    <allow-intent href="sms:*" />
-    <allow-intent href="mailto:*" />
-    <allow-intent href="geo:*" />
+    <feature name="StatusBar">
+        <param name="android-package" value="org.apache.cordova.statusbar.StatusBar" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="SQLitePlugin">
+        <param name="android-package" value="io.sqlc.SQLitePlugin" />
+    </feature>
     <allow-intent href="market:*" />
     <icon density="ldpi" src="res/icons/android/icon-36-ldpi.png" />
     <icon density="mdpi" src="res/icons/android/icon-48-mdpi.png" />
@@ -37,9 +29,21 @@
     <splash density="port-ldpi" src="res/screens/android/screen-ldpi-portrait.png" />
     <splash density="port-mdpi" src="res/screens/android/screen-mdpi-portrait.png" />
     <splash density="port-xhdpi" src="res/screens/android/screen-xhdpi-portrait.png" />
-    <preference name="loglevel" value="DEBUG" />
+    <name>MAPP</name>
+    <description>The best messenger app you'll ever see, but never download, MAPP</description>
+    <author email="mappmessenger@gmail.com" href="google.com/search?q=MAPP">The MAPPERS</author>
+    <content src="index.html" />
+    <access origin="*" />
+    <vs:features />
     <preference name="SplashScreen" value="screen" />
     <preference name="windows-target-version" value="8.1" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <allow-navigation href="ws://77.162.231.112" />
     <preference name="KeepRunning" value="True" />
     <preference name="ShowTitle" value="True" />
     <preference name="InAppBrowserStorageEnabled" value="True" />

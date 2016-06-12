@@ -38,6 +38,11 @@
     <true/>
     <key>NSAppTransportSecurity</key>
     <dict>
+      <key>NSExceptionDomains</key>
+      <dict>
+        <key>77.162.231.112</key>
+        <dict/>
+      </dict>
       <key>NSAllowsArbitraryLoads</key>
       <true/>
     </dict>

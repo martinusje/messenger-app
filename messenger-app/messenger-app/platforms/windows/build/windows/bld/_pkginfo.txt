@@ -1,1 +1,1 @@
-C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\AppPackages\CordovaApp.Windows_1.0.0.0_x86_debug_Test\CordovaApp.Windows_1.0.0.0_x86_debug.appx
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\AppPackages\CordovaApp.Windows_1.0.0.0_x86_debug_Test\CordovaApp.Windows_1.0.0.0_x86_debug.appx

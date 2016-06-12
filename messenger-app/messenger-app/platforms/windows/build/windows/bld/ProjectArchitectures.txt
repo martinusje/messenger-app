@@ -1,1 +1,2 @@
-C:\Users\luca\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\CordovaApp.Windows.jsproj;x86
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\platforms\windows\CordovaApp.Windows.jsproj;x86
+D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\plugins\cordova-sqlite-storage\src\windows\SQLite3-Win-RT\SQLite3\SQLite3.Windows\SQLite3.Windows.vcxproj;x86

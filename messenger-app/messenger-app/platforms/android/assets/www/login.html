@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="loginScreen">
+        <input type="text" id="user" value="username" />
+        <input type="text" id="pwd" value="password" />
+        <p id="inputButton">Input thingie</p>
+    </div>
+    <script src="cordova.js"></script>
+    <script type="text/javascript" src="scripts/jquery.js"></script>
+    <script>
+        $("#inputButton").click(function () {
+            window.localStorage.setItem('user', $('#user').val());
+            window.localStorage.setItem('pwd', $('#pwd').val());
+            console.log('succes!');
+            window.location = 'index.html'; 
+        });
+    </script>
+</body>
+</html>

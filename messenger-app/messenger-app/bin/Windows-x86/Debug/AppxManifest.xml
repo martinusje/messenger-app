@@ -39,13 +39,25 @@
   </Capabilities>
   <Dependencies>
     <PackageDependency Name="Microsoft.WinJS.2.0" MinVersion="1.0.9600.17018" />
+    <PackageDependency Name="Microsoft.VCLibs.120.00.Debug" MinVersion="12.0.21005.1" />
   </Dependencies>
+  <Extensions>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>SQLite3.dll</Path>
+        <ActivatableClass ActivatableClassId="SQLite3.Datatype" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="SQLite3.ResultCode" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="SQLite3.Statement" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="SQLite3.Database" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+  </Extensions>
   <build:Metadata>
     <build:Item Name="SharedGUID" Value="9ebdb27f-d75b-4d8c-b53f-7be4a1fe89f9" />
     <build:Item Name="CodeSharingProject" Value="248F659F-DAC5-46E8-AC09-60EC9FC95053" />
     <build:Item Name="VisualStudio" Version="14.0" />
     <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Community 2015" />
-    <build:Item Name="OperatingSystem" Version="10.0.10586.0 (th2_release.151029-1700)" />
+    <build:Item Name="OperatingSystem" Version="10.0.14361.0 (rs1_release.160603-1700)" />
     <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="14.0.24720.0" />
     <build:Item Name="ProjectGUID" Value="0561a780-6ac5-4c97-be65-4f4c60087fa7" />
     <build:Item Name="MakePri.exe" Version="6.3.9600.17336 (winblue.150226-1500)" />

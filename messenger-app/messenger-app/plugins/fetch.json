@@ -7,6 +7,14 @@
         "is_top_level": true,
         "variables": {}
     },
+    "ionic-plugin-keyboard": {
+        "source": {
+            "type": "registry",
+            "id": "ionic-plugin-keyboard"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
     "cordova-plugin-statusbar": {
         "source": {
             "type": "registry",
@@ -15,10 +23,11 @@
         "is_top_level": true,
         "variables": {}
     },
-    "ionic-plugin-keyboard": {
+    "cordova-sqlite-storage": {
         "source": {
-            "type": "registry",
-            "id": "ionic-plugin-keyboard"
+            "type": "git",
+            "url": "https://github.com/litehelpers/Cordova-sqlite-storage",
+            "subdir": "."
         },
         "is_top_level": true,
         "variables": {}

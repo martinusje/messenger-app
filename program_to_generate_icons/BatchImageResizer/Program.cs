@@ -36,7 +36,7 @@ namespace BatchImageResizer
             }
             else
             {
-                Console.WriteLine(@"Path to target directory ('D:\Martijn\Downloads\'):");
+                Console.WriteLine(@"Path to target directory ('D:\Martijn\Documents\GitHub\messenger-app\messenger-app\messenger-app\res\icons'):");
                 targetDirectory = Console.ReadLine();
             }
             

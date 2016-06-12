@@ -7,13 +7,16 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "io.cordova.myapp2a1232"
-        },
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "io.cordova.myapp2a1232"
         },
         "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "io.cordova.myapp2a1232"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "io.cordova.myapp2a1232"
+        },
+        "cordova-sqlite-storage": {
             "PACKAGE_NAME": "io.cordova.myapp2a1232"
         }
     },

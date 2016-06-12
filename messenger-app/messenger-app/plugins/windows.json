@@ -10,10 +10,13 @@
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "messenger-app"
         },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "MAPP"
+        },
         "cordova-plugin-statusbar": {
             "PACKAGE_NAME": "MAPP"
         },
-        "ionic-plugin-keyboard": {
+        "cordova-sqlite-storage": {
             "PACKAGE_NAME": "MAPP"
         }
     },

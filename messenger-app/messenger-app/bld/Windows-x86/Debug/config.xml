@@ -30,6 +30,7 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <allow-navigation href="ws://77.162.231.112" />
     <preference name="KeepRunning" value="True" />
     <preference name="ShowTitle" value="True" />
     <preference name="InAppBrowserStorageEnabled" value="True" />
